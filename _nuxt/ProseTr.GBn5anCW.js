@@ -1,0 +1,1 @@
+import{k as t,b as n,c as o,a3 as r}from"./entry.PW40O_fD.js";const c={};function a(e,s){return n(),o("tr",null,[r(e.$slots,"default",{},void 0,!0)])}const d=t(c,[["render",a],["__scopeId","data-v-42740914"]]);export{d as default};
